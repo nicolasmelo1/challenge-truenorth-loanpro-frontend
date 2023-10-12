@@ -59,9 +59,8 @@ This is the frontend solution for the coding challenge, it is a React applicatio
 1. Guarantee that you have Node.js installed.
 2. Clone the repository.
 3. Run `pnpm install` to install all the dependencies.
-4. Start the backend server.
-5. Run `pnpm run storybook` to start the development server.
-6. Open your browser and go to `http://localhost:6006/`.
+4. Run `pnpm run storybook` to start the development server.
+5. Open your browser and go to `http://localhost:6006/`.
 
 #### How to run the project in Vercel or any other platform
 
